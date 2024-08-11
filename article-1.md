@@ -1,7 +1,7 @@
 # How to learn Go when you already know TypeScript very well?
 
 ## Introduction
-For TypeScript developers, diving into Go can be an exciting vecture into a new paradigm of programming. Both languages are known for their efficiency and performance but differ significantly in syntax, design principles, and use cases. If you're well-versed in TypeScript and are looking to expand your skillset to inckude Go, this guide will help bridge the gap between the two languages.
+For TypeScript developers, diving into Go can be an exciting venture into a new paradigm of programming. Both languages are known for their efficiency and performance but differ significantly in syntax, design principles, and use cases. If you're well-versed in TypeScript and are looking to expand your skill set to include Go, this guide will help bridge the gap between the two languages.
 <br/>
 <br/>
 In this article, we'll employ a comparison-based method to explore the differences between the two languages. By directly contrasting TypeScript and Go across various aspects, you'll gain a clearer understanding of how Go's features and design principles compare to what you're already familiar with in TypeScript.
