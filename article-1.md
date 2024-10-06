@@ -1,3 +1,10 @@
+---
+title: How to learn Go when you already know TypeScript very well?
+slug: how-to-learn-go-when-you-already-know-typeScript-very-well
+author: Jit Mitra
+date: 11/08/2024
+---
+
 # How to learn Go when you already know TypeScript very well?
 
 ## Introduction
